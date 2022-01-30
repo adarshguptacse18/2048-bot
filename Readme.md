@@ -11,3 +11,5 @@ Enter LEFT, RIGHT, UP , DOWN for the moves
 
 To run bot 
 python3 Bot.py
+
+
